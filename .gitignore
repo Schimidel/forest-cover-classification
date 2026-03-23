@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Data files (IMPORTANTE: não subir o dataset pesado)
+*.csv
+*.zip
+data/
+/kaggle/
+
+# Environments
+.venv
+venv/
+env/
