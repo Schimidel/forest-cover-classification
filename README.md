@@ -11,8 +11,9 @@ Otimização de Performance: Transição de um modelo linear (F1-Score: 0.76) pa
 
 Resultados (Random Forest): O modelo final alcançou uma performance excepcional, mantendo robustez mesmo em classes minoritárias.
 
-Métrica,Valor
-Acurácia Geral,96%
-F1-Score (Macro),0.93
-Precisão Média,0.95
-Recall Médio,0.91
+| Métrica | Valor |
+| :--- | :--- |
+| **Acurácia Geral** | 96% |
+| **F1-Score (Macro)** | 0.93 |
+| **Precisão Média** | 0.95 |
+| **Recall Médio** | 0.91 |
